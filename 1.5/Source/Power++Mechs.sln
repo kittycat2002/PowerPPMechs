@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power++Mechs", "Power++Mechs.csproj", "{8EB4A04E-2644-4059-8A6E-AD4A10DB60FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB4A04E-2644-4059-8A6E-AD4A10DB60FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB4A04E-2644-4059-8A6E-AD4A10DB60FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB4A04E-2644-4059-8A6E-AD4A10DB60FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB4A04E-2644-4059-8A6E-AD4A10DB60FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC14FC4E-AD5B-4086-BFFD-01D7F8A40C05}
+	EndGlobalSection
+EndGlobal

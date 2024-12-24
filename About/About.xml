@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Power++ Mechs</name>
+    <author>cat2002</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+    <li>
+        <packageId>aRandomKiwi.PowerPP</packageId>
+        <displayName>Power++</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/1771402217</steamWorkshopUrl>
+    </li>
+	</modDependencies>
+	<packageId>xyz.nekogaming.cat2002.PowerPPMechs</packageId>
+    <description>
+
+</description>
+
+</ModMetaData>
